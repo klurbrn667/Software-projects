@@ -1,0 +1,17 @@
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Project9\Project9\bin\Debug\net6.0-windows\Project9.exe
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Project9\Project9\bin\Debug\net6.0-windows\Project9.deps.json
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Project9\Project9\bin\Debug\net6.0-windows\Project9.runtimeconfig.json
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Project9\Project9\bin\Debug\net6.0-windows\Project9.dll
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Project9\Project9\bin\Debug\net6.0-windows\Project9.pdb
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Project9\Project9\obj\Debug\net6.0-windows\Project9.Form1.resources
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Project9\Project9\obj\Debug\net6.0-windows\Project9.Form2.resources
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Project9\Project9\obj\Debug\net6.0-windows\Project9.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Project9\Project9\obj\Debug\net6.0-windows\Project9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Project9\Project9\obj\Debug\net6.0-windows\Project9.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Project9\Project9\obj\Debug\net6.0-windows\Project9.AssemblyInfo.cs
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Project9\Project9\obj\Debug\net6.0-windows\Project9.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Project9\Project9\obj\Debug\net6.0-windows\Project9.dll
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Project9\Project9\obj\Debug\net6.0-windows\refint\Project9.dll
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Project9\Project9\obj\Debug\net6.0-windows\Project9.pdb
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Project9\Project9\obj\Debug\net6.0-windows\Project9.genruntimeconfig.cache
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Project9\Project9\obj\Debug\net6.0-windows\ref\Project9.dll
