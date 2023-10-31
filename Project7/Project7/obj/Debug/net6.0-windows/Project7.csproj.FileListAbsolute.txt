@@ -1,0 +1,16 @@
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Project7\Project7\bin\Debug\net6.0-windows\Project7.exe
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Project7\Project7\bin\Debug\net6.0-windows\Project7.deps.json
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Project7\Project7\bin\Debug\net6.0-windows\Project7.runtimeconfig.json
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Project7\Project7\bin\Debug\net6.0-windows\Project7.dll
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Project7\Project7\bin\Debug\net6.0-windows\Project7.pdb
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Project7\Project7\obj\Debug\net6.0-windows\Project7.Form1.resources
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Project7\Project7\obj\Debug\net6.0-windows\Project7.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Project7\Project7\obj\Debug\net6.0-windows\Project7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Project7\Project7\obj\Debug\net6.0-windows\Project7.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Project7\Project7\obj\Debug\net6.0-windows\Project7.AssemblyInfo.cs
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Project7\Project7\obj\Debug\net6.0-windows\Project7.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Project7\Project7\obj\Debug\net6.0-windows\Project7.dll
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Project7\Project7\obj\Debug\net6.0-windows\refint\Project7.dll
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Project7\Project7\obj\Debug\net6.0-windows\Project7.pdb
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Project7\Project7\obj\Debug\net6.0-windows\Project7.genruntimeconfig.cache
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Project7\Project7\obj\Debug\net6.0-windows\ref\Project7.dll
