@@ -1,0 +1,16 @@
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Project8_2\Project8_2\bin\Debug\net6.0-windows\Project8_2.exe
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Project8_2\Project8_2\bin\Debug\net6.0-windows\Project8_2.deps.json
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Project8_2\Project8_2\bin\Debug\net6.0-windows\Project8_2.runtimeconfig.json
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Project8_2\Project8_2\bin\Debug\net6.0-windows\Project8_2.dll
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Project8_2\Project8_2\bin\Debug\net6.0-windows\Project8_2.pdb
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Project8_2\Project8_2\obj\Debug\net6.0-windows\Project8_2.Form1.resources
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Project8_2\Project8_2\obj\Debug\net6.0-windows\Project8_2.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Project8_2\Project8_2\obj\Debug\net6.0-windows\Project8_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Project8_2\Project8_2\obj\Debug\net6.0-windows\Project8_2.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Project8_2\Project8_2\obj\Debug\net6.0-windows\Project8_2.AssemblyInfo.cs
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Project8_2\Project8_2\obj\Debug\net6.0-windows\Project8_2.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Project8_2\Project8_2\obj\Debug\net6.0-windows\Project8_2.dll
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Project8_2\Project8_2\obj\Debug\net6.0-windows\refint\Project8_2.dll
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Project8_2\Project8_2\obj\Debug\net6.0-windows\Project8_2.pdb
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Project8_2\Project8_2\obj\Debug\net6.0-windows\Project8_2.genruntimeconfig.cache
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Project8_2\Project8_2\obj\Debug\net6.0-windows\ref\Project8_2.dll
