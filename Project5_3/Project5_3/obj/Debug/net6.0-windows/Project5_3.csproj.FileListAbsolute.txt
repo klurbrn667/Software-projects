@@ -1,0 +1,16 @@
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Project5_3\Project5_3\bin\Debug\net6.0-windows\Project5_3.exe
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Project5_3\Project5_3\bin\Debug\net6.0-windows\Project5_3.deps.json
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Project5_3\Project5_3\bin\Debug\net6.0-windows\Project5_3.runtimeconfig.json
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Project5_3\Project5_3\bin\Debug\net6.0-windows\Project5_3.dll
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Project5_3\Project5_3\bin\Debug\net6.0-windows\Project5_3.pdb
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Project5_3\Project5_3\obj\Debug\net6.0-windows\Project5_3.Form1.resources
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Project5_3\Project5_3\obj\Debug\net6.0-windows\Project5_3.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Project5_3\Project5_3\obj\Debug\net6.0-windows\Project5_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Project5_3\Project5_3\obj\Debug\net6.0-windows\Project5_3.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Project5_3\Project5_3\obj\Debug\net6.0-windows\Project5_3.AssemblyInfo.cs
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Project5_3\Project5_3\obj\Debug\net6.0-windows\Project5_3.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Project5_3\Project5_3\obj\Debug\net6.0-windows\Project5_3.dll
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Project5_3\Project5_3\obj\Debug\net6.0-windows\refint\Project5_3.dll
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Project5_3\Project5_3\obj\Debug\net6.0-windows\Project5_3.pdb
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Project5_3\Project5_3\obj\Debug\net6.0-windows\Project5_3.genruntimeconfig.cache
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Project5_3\Project5_3\obj\Debug\net6.0-windows\ref\Project5_3.dll
